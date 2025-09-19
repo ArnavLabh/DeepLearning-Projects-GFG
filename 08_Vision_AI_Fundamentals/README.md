@@ -1,8 +1,8 @@
-# Project 8: Vision AI Fundamentals – Building Fashion & CIFAR-100 Recognizers
+# Project 8: Vision AI Fundamentals - Building Fashion & CIFAR-100 Recognizers
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ay-ezsZ2u2RN6XEydlVMDFjahI8xfU3r) **Fashion-MNIST Classification**
+**Fashion-MNIST Classification** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ay-ezsZ2u2RN6XEydlVMDFjahI8xfU3r)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mm2FnxcBebyJOF-w-sqMQuwo3BnSFuS6) **CIFAR-100 Classification**
+**CIFAR-100 Classification** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mm2FnxcBebyJOF-w-sqMQuwo3BnSFuS6) 
 
 ## Project Overview
 This project showcases the development and comparison of multiple deep learning architectures for image classification tasks. I implemented and evaluated three distinct neural network approaches, progressing from basic architectures to sophisticated CNNs, demonstrating their performance across both grayscale and color image datasets.
@@ -32,9 +32,9 @@ This project showcases the development and comparison of multiple deep learning 
 - Developed prediction analysis tools for model behavior understanding
 
 ## Project Files
-**8.1_Vision_AI_Fundamentals_Building_a_Fashion_Recognizer_from_Scratch.ipynb** – Complete implementation of Fashion-MNIST classification system with comparative analysis of 3 neural network architectures
+**8.1_Vision_AI_Fundamentals_Building_a_Fashion_Recognizer_from_Scratch.ipynb** - Complete implementation of Fashion-MNIST classification system with comparative analysis of 3 neural network architectures
 
-**8.2_Vision_AI_CIFAR-100_Image_Classification.ipynb** – Advanced color image classification system adapted for the challenging CIFAR-100 dataset
+**8.2_Vision_AI_CIFAR-100_Image_Classification.ipynb** - Advanced color image classification system adapted for the challenging CIFAR-100 dataset
 
 ## Results & Achievements
 - Successfully implemented and compared multiple deep learning architectures
