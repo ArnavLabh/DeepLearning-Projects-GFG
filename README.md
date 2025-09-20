@@ -9,7 +9,7 @@
 | 10 | Creative AI Generating Art with Neural Style Transfer | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D-pUbKlPNIYuVtkM67VvXMnN_s_qocpc) | [Folder](./10_Creative_AI_Generating_Art_with_Neural_Style_Transfer/) |
 | 11.1 | The AI Swiss Army Knife One Line Solutions with Hugging Face Pipelines | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fN0Hvi7nP_GtzauiCpn4u55ajllHP7fc) | [Folder](./11_Hugging_Face_Pipelines/11.1_The_AI_Swiss_Army_Knife_One_Line_Solutions_with_Hugging_Face_Pipelines/) |
 | 11.2 | Image Generation with Diffusion Models with Hugging Face Pipelines | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13xo9sXt_dVdyYQxginAoOeFIckrHOmL4) | [Folder](./11_Hugging_Face_Pipelines/11.2_Image_Generation_with_Diffusion_Models_with_Hugging_Face_Pipelines/) |
-| 12 | Real World Computer Vision Building a Real Time Object Detector | Coming Soon | [Folder](./12_Real_World_Computer_Vision_Building_a_Real_Time_Object_Detector/) |
+| 12.1 | Object Detection with YOLO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/188Fxm9_-ANoYX7qdbfkT7iIBFlaTZUC7) | [Folder](./12_Real_World_Computer_Vision/) |
 | 13 | Next Gen Forecasting Applying Deep Learning to Time Series Data | Coming Soon | [Folder](./13_Next_Gen_Forecasting_Applying_Deep_Learning_to_Time_Series_Data/) |
 | 14 | Build Your Own GPT Creating a Custom Text Generation Engine | Coming Soon | [Folder](./14_Build_Your_Own_GPT_Creating_a_Custom_Text_Generation_Engine/) |
 
