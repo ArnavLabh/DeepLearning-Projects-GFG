@@ -1,6 +1,6 @@
 # Project 10: Creative AI – Generating Art with Neural Style Transfer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D-pUbKlPNIYuVtkM67VvXMnN_s_qocpc) **Creative Face Generation with GANs**
+**Creative Face Generation with GANs** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D-pUbKlPNIYuVtkM67VvXMnN_s_qocpc) 
 
 ## Project Overview
 This project explores the creative applications of Generative Adversarial Networks (GANs) for artistic face generation and transformation. I implemented an advanced face generation system that demonstrates controlled attribute manipulation, specifically focusing on gender transition effects through latent space interpolation. The project showcases how pre-trained GAN models can be leveraged for creative AI applications and artistic expression.
